@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1eb172a2-7b4c-4bb0-b85b-a1c7b8de63df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>conta</find>
+      <find>CP</find>
+      <find>System</find>
+      <find>tour</find>
+      <find>cp</find>
+      <find>depot</find>
+    </findStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1ZctlwD6GVgBmn0hwGgzghgWpn2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556601635850" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="runGA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="12" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="gvrp.runGA" />
+      <module name="amFYP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gvrp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.runGA" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eb172a2-7b4c-4bb0-b85b-a1c7b8de63df" name="Default Changelist" comment="" />
+      <created>1554659006912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554659006912</updated>
+      <workItem from="1554659012342" duration="4660000" />
+      <workItem from="1554719668091" duration="17482000" />
+      <workItem from="1554847648364" duration="8210000" />
+      <workItem from="1554904573910" duration="10939000" />
+      <workItem from="1555080950949" duration="12385000" />
+      <workItem from="1555334362498" duration="44976000" />
+      <workItem from="1556230707704" duration="17145000" />
+      <workItem from="1556463995701" duration="46751000" />
+      <workItem from="1556883202630" duration="2460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="165008000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1780" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585151251959">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1780" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151251959" />
+    <state x="2055" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585150600623">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2055" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585150600623" />
+    <state x="2177" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585150612363">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2177" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585150612363" />
+    <state width="1877" height="224" key="GridCell.Tab.0.bottom" timestamp="1585151254077">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="224" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254077" />
+    <state width="1877" height="224" key="GridCell.Tab.0.center" timestamp="1585151254077">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="224" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254077" />
+    <state width="1877" height="224" key="GridCell.Tab.0.left" timestamp="1585151254076">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="224" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254076" />
+    <state width="1877" height="224" key="GridCell.Tab.0.right" timestamp="1585151254077">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="224" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254077" />
+    <state x="1806" y="117" key="SettingsEditor" timestamp="1585151149366">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1806" y="117" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151149366" />
+    <state x="2034" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1585150496573">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2034" y="367" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585150496573" />
+  </component>
+</project>
