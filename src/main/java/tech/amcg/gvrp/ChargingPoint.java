@@ -1,4 +1,4 @@
-package gvrp;
+package tech.amcg.gvrp;
 
 public class ChargingPoint extends Location {
     //subclass of location

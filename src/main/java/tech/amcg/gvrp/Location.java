@@ -1,4 +1,4 @@
-package gvrp;
+package tech.amcg.gvrp;
 
 import java.util.ArrayList;
 //superclass for all other varieties of locations

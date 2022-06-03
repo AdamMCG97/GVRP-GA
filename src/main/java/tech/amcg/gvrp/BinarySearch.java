@@ -1,4 +1,4 @@
-package gvrp;
+package tech.amcg.gvrp;
 
 public class BinarySearch {
     public boolean bSearch(Route[] array, int first, int last, Route target) {

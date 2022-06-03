@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1eb172a2-7b4c-4bb0-b85b-a1c7b8de63df" name="Default Changelist" comment="" />
+    <list default="true" id="1eb172a2-7b4c-4bb0-b85b-a1c7b8de63df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GVRP-GA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GVRP-GA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/ChargingPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/ChargingPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Depot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Depot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Destination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Destination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/ElectricVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/ElectricVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/FleetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/FleetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/GreedyAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/GreedyAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Population.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Population.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Route.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/RouteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/RouteManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/runGA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/runGA.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +60,9 @@
       <find>depot</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
@@ -46,24 +71,15 @@
   <component name="ProjectId" id="1ZctlwD6GVgBmn0hwGgzghgWpn2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556601635850" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="runGA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
@@ -86,6 +102,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -114,42 +131,15 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1780" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585151251959">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1780" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151251959" />
-    <state x="2055" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585150600623">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2055" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585150600623" />
-    <state x="2177" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585150612363">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2177" y="432" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585150612363" />
-    <state width="1877" height="224" key="GridCell.Tab.0.bottom" timestamp="1585151254077">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="224" key="GridCell.Tab.0.bottom/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254077" />
-    <state width="1877" height="224" key="GridCell.Tab.0.center" timestamp="1585151254077">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="224" key="GridCell.Tab.0.center/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254077" />
-    <state width="1877" height="224" key="GridCell.Tab.0.left" timestamp="1585151254076">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="224" key="GridCell.Tab.0.left/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254076" />
-    <state width="1877" height="224" key="GridCell.Tab.0.right" timestamp="1585151254077">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state width="1877" height="224" key="GridCell.Tab.0.right/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151254077" />
-    <state x="1806" y="117" key="SettingsEditor" timestamp="1585151149366">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="1806" y="117" key="SettingsEditor/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585151149366" />
-    <state x="2034" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1585150496573">
-      <screen x="1366" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2034" y="367" key="com.intellij.ide.util.TipDialog/0.0.1366.768/1366.0.1920.1080@1366.0.1920.1080" timestamp="1585150496573" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

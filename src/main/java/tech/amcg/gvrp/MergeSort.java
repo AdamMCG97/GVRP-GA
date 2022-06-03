@@ -1,4 +1,4 @@
-package gvrp;
+package tech.amcg.gvrp;
 
 public class MergeSort {
     //recursively sort population with mergesort

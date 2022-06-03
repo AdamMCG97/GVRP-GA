@@ -1,4 +1,4 @@
-package gvrp;
+package tech.amcg.gvrp;
 
 public class Destination extends Location {
     //subclass of location

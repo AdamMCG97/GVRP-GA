@@ -1,6 +1,6 @@
-package gvrp;
+package tech.amcg.gvrp;
 
-public class ElectricVehicle extends Vehicle{
+public class ElectricVehicle extends Vehicle {
     //subclass of vehicle
     int range;
         public ElectricVehicle(int capacity, int range) {
