@@ -54,7 +54,7 @@ public class runGA {
         fittestStart = currentFittest;
         currentFitness = population.getFittest().getFitness();
         while(successCount < maxSuccess && failureCount < maxFailure) {
-            population.sort(population.populationSize());
+            population.sort(population.size());
             population = Algorithm.evolvePop(population);
             generationCount = generationCount + 1;
             if(population.getFittest().getFitness() > currentFitness) {
@@ -66,7 +66,7 @@ public class runGA {
                 failureCount = failureCount + 1;
             }
         }
-        population.sort(population.populationSize());
+        population.sort(population.size());
         System.out.println("Finished. ");
         System.out.println(population.getFittest());
         System.out.println("Start Distance: " + fittestStart.getDistance() + " Final Distance: " + population.getFittest().getDistance() + ". Calculated in " + generationCount + " generations.");

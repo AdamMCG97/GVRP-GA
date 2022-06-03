@@ -1,7 +1,7 @@
 package tech.amcg.gvrp;
 
 public class BinarySearch {
-    public boolean bSearch(Route[] array, int first, int last, Route target) {
+    public boolean search(Route[] array, int first, int last, Route target) {
         boolean result = false;
         int middle;
         if (last > 1) {

@@ -2,7 +2,7 @@ package tech.amcg.gvrp;
 
 public class MergeSort {
     //recursively sort population with mergesort
-    public void mSort(Route[] array, int length) {
+    public void sort(Route[] array, int length) {
         if (length < 2) {
             return;
         }
@@ -16,17 +16,18 @@ public class MergeSort {
         for (int i = middle; i < length; i++) {
             rightArray[i - middle] = array[i];
         }
-        mSort(leftArray, middle);
-        mSort(rightArray, length - middle);
+        sort(leftArray, middle);
+        sort(rightArray, length - middle);
 
-        mMerge(array, leftArray, rightArray, middle, length - middle);
+        merge(array, leftArray, rightArray, middle, length - middle);
     }
 
-    public void mMerge(Route[] array, Route[] leftArray, Route[] rightArray, int left, int right) {
+    public void merge(Route[] array, Route[] leftArray, Route[] rightArray, int left, int right) {
 
         int rightIndex = 0;
         int leftIndex = 0;
         int arrayIndex = 0;
+
         while (rightIndex < left && leftIndex < right) {
             if(leftArray[rightIndex] == null) {
                 rightIndex = rightIndex + 1;
@@ -45,11 +46,13 @@ public class MergeSort {
                 arrayIndex = arrayIndex + 1;
             }
         }
+
         while (rightIndex < left) {
             array[arrayIndex] = leftArray[rightIndex];
             arrayIndex = arrayIndex + 1;
             rightIndex = rightIndex + 1;
         }
+
         while (leftIndex < right) {
             array[arrayIndex] = rightArray[leftIndex];
             arrayIndex = arrayIndex + 1;

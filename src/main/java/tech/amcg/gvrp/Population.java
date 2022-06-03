@@ -2,24 +2,24 @@ package tech.amcg.gvrp;
 
 public class Population {
 
-    Route[] routePop;
+    private final Route[] population;
 
-    public int populationSize(){
-        return routePop.length;
+    public int size(){
+        return population.length;
     }
 
     public void saveRoute(int index, Route route){
-        routePop[index] = route;
+        population[index] = route;
     }
 
     public Population(int populationSize, boolean initialise) {
         //create new population from parameters
-        routePop = new Route[populationSize];
-        BinarySearch bS = new BinarySearch();
+        population = new Route[populationSize];
+        BinarySearch binarySearch = new BinarySearch();
         GreedyAlgorithm greedy = new GreedyAlgorithm();
         if (initialise) {
             //if initialising new population, use greedy algorithm for first 2 individuals
-            for (int i = 0; i < populationSize(); i++) {
+            for (int i = 0; i < size(); i++) {
                 Route newRoute = new Route();
                 Vehicle vehicle = FleetManager.getVehicle(0);
                 if(i == 0) {
@@ -41,7 +41,7 @@ public class Population {
                     newRoute.setVehicle(vehicle);
                     newRoute.generateIndividual();
                     this.sort(i + 1);
-                    if (bS.bSearch(routePop, 0, i, newRoute)) {
+                    if (binarySearch.search(population, 0, i, newRoute)) {
                         i = i - 1;
                     } else {
                         saveRoute(i, newRoute);
@@ -52,13 +52,13 @@ public class Population {
     }
 
     public Route getRoute(int index){
-        return routePop[index];
+        return population[index];
     }
 
     public Route getFittest(){
         //find and return fittest individual in the population
-        Route fittest = routePop[0];
-        for (int i=1; i <populationSize(); i++){
+        Route fittest = population[0];
+        for (int i = 1; i < size(); i++){
             if (fittest.getFitness() <= getRoute(i).getFitness()) {
                 fittest = getRoute(i);
             }
@@ -67,12 +67,12 @@ public class Population {
     }
 
     public Route[] getArray() {
-        return this.routePop;
+        return this.population;
     }
 
     public void sort(int arrayLength) {
         //sort population with mergesort
-        MergeSort mS = new MergeSort();
-        mS.mSort(routePop, arrayLength);
+        MergeSort mergeSort = new MergeSort();
+        mergeSort.sort(population, arrayLength);
     }
 }

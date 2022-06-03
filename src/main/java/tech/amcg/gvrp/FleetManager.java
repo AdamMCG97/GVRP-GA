@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class FleetManager {
     //retains list of all vehicles that have been defined
-    private static ArrayList<Vehicle> fleet = new ArrayList<Vehicle>();
+    private static final ArrayList<Vehicle> fleet = new ArrayList<Vehicle>();
 
     public static void addVehicle(Vehicle vehicle) {
         fleet.add(vehicle);

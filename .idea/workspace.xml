@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1eb172a2-7b4c-4bb0-b85b-a1c7b8de63df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GVRP-GA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GVRP-GA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Algorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/ChargingPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/ChargingPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Depot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Depot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Destination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Destination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/ElectricVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/ElectricVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/FleetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/FleetManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/GreedyAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/GreedyAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Population.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Population.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Route.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/RouteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/RouteManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gvrp/runGA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/runGA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Algorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/ElectricVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/ElectricVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/FleetManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/FleetManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Population.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Population.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Route.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/Route.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/runGA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tech/amcg/gvrp/runGA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +54,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="697" />
@@ -80,6 +74,11 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adamm\dev\GVRP-GA" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="runGA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="12" />
